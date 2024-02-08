@@ -82,11 +82,11 @@ function App() {
                 src={gif6}
                 alt="confetti"
               />
-              <motion.img
+              {/* <motion.img
                 className='px-5 z-10 relative '
                 src={gif3}
                 alt="gif3"
-              />
+              /> */}
             </>
           ) : (
             <motion.img
